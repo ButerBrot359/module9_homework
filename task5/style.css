@@ -1,0 +1,12 @@
+.input {
+    display: flex;
+    flex-direction: column;
+
+}
+.input-element {
+    margin-bottom: 20px;
+}
+.card {
+    max-width: 500px;
+    max-height: 500px;
+}
