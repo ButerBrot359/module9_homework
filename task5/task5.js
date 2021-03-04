@@ -66,6 +66,9 @@ b.addEventListener('click', ()=>{
                 console.log(ans);
                 content.innerHTML = ans
         })
+        .catch(() => {
+            console.log("error")
+        })
     }
 
 })
